@@ -5,4 +5,6 @@
 ##### Review this file very well
 ###### This is the last line in the file
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 I have added content in the index.md file
